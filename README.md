@@ -48,6 +48,7 @@ $ helm delete configurator gopaddle_configurator/configurator
 ```
 
 ### License 
+## Add Star
 
 [Apache License Version 2.0](/LICENSE.md)
 
